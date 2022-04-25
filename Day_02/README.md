@@ -1,5 +1,6 @@
 # Day_02 Summary; Django Setting and HTML
 
+- 진행 날짜: 22.04.13
 - [작성 참고](https://github.com/aiffelDjango/KUD/blob/main/README/HTML/2-1.Setting.md)
 
 ## Django Project 폴더 구조

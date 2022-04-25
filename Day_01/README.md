@@ -1,5 +1,6 @@
 # Day_01 Summary; Before Starting Django
 
+- 진행 날짜: 22.04.06
 - [작성 참고](https://github.com/aiffelDjango/KUD/blob/main/README/Setting/1.Setting.md)
 
 ## Python 설치
