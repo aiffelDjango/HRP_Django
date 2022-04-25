@@ -1,10 +1,12 @@
-# Before Starting Django
+# Day_01 Summary; Before Starting Django
+
+- [작성 참고](https://github.com/aiffelDjango/KUD/blob/main/README/Setting/1.Setting.md)
 
 ## Python 설치
 
 - [Python 공식 사이트 바로가기](https://www.python.org/downloads/windows/)
 - Python 3.8.x 버전 설치
-- ![Python 설치 참고](https://github.com/aiffelDjango/KUD/blob/main/README/Setting/img/1.png)
+- ![Python 설치 참고](https://github.com/aiffelDjango/KUD/raw/main/README/Setting/img/1.png)
 
 ## VS Code 설치
 
