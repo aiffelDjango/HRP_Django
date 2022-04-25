@@ -1,7 +1,6 @@
 <h1 align="center">Django 를 통한 AI API 구축</h1>
 
 <div align="right">
-  <br>
   Aiffel Filpped Learning
   <br>
   <i>#Tags: Python, Django, Web, Framework, AI, API</i>
