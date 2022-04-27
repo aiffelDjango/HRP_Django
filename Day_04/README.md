@@ -6,13 +6,14 @@
 
 ## Setting
 
-- 라이브러리 설치
-  - 주의사항: 반드시 cmake 먼저 설치하고 dlib 을 설치해야 함!
-  - dlib 설치가 제대로 안 될 경우, 시도할 수 있는 방법
-    1) 아나콘다 사용자: conda install -c conda-forge dlib
-    2) visual studio 설치, dlib 파일 직접 받아서 설치 [[참고1]](https://daily-error.tistory.com/55) [[참고2]](https://updaun.tistory.com/entry/python-python-37-dlib-install-error)
-    3) pip 업그레이드: python -m pip install --upgrade pip
-    4) CMake 사용해서 직접 빌드 [[참고1]](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=os2dr&logNo=221818707061) [[참고2]](https://m.blog.naver.com/dic1224/221069482304)
+### 라이브러리 설치
+
+- 주의사항: 반드시 cmake 먼저 설치하고 dlib 을 설치해야 함!
+- dlib 설치가 제대로 안 될 경우, 시도할 수 있는 방법
+  1) 아나콘다 사용자: conda install -c conda-forge dlib
+  2) visual studio 설치, dlib 파일 직접 받아서 설치 [[참고1]](https://daily-error.tistory.com/55) [[참고2]](https://updaun.tistory.com/entry/python-python-37-dlib-install-error)
+  3) pip 업그레이드: python -m pip install --upgrade pip
+  4) CMake 사용해서 직접 빌드 [[참고1]](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=os2dr&logNo=221818707061) [[참고2]](https://m.blog.naver.com/dic1224/221069482304)
 
 ```bash
 pip install opencv-python
@@ -21,20 +22,22 @@ pip install cmake
 pip install dlib
 ```
 
-- 이미지 다운로드
+### 다운로드
+
+- 이미지
   - 사람 이미지 다운로드
     - 위치: StickerUtils/images/Image.png
     - 본인 사진 가능
     - 연예인 사진 가능
   - [sticker 다운로드](https://drive.google.com/file/d/1knZtRmrsXVqYutibA9O06QVhFXb4oWl4/view)
     - 위치: StickerUtils/images/king.png
-- 모델 다운로드
+- 모델
   - [dlib face landmark 모델 다운로드](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
     - 위치: StickerUtils/models/shape_predictor_68_face_landmarks.dat
 
 ## StickerUtils
 
-- 동작 과정
+### 동작 과정
 
 |서버 실행|이미지 선택|스티커 붙이기|
 |:---:|:---:|:---:|
@@ -44,7 +47,7 @@ pip install dlib
 [실행_2]: https://github.com/aiffelDjango/KUD/raw/main/README/Sticker/img/2.png
 [실행_3]: https://github.com/aiffelDjango/KUD/raw/main/README/Sticker/img/3.png
 
-- 폴더 구조
+### 폴더 구조
 
 ```bash
 fristproject
@@ -60,6 +63,8 @@ fristproject
     └───models
         └───shape_predictor_68_face_landmarks.dat
 ```
+
+### 코드
 
 - templates/Landing/sticker.html
 
