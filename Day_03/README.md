@@ -3,13 +3,16 @@
 - 진행 날짜: 22.04.20
 - [작성 참고 1](https://github.com/aiffelDjango/KUD/blob/main/README/CSS/3.CSS.md)
 - [작성 참고 2](https://github.com/aiffelDjango/KUD/blob/main/README/CSS/3-2.CSS.md)
-- ![CSS Project Image](https://github.com/aiffelDjango/KUD/raw/main/README/CSS/img/CSS1.png)
+
+## 결과 화면
+
+![CSS Project Image](https://github.com/aiffelDjango/KUD/raw/main/README/CSS/img/CSS1.png)
 
 ## CSS Project
 
 ### HTML
 
-```console
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -111,7 +114,7 @@
 
 ### CSS
 
-```console
+```css
 body{
     margin: 0;
 
