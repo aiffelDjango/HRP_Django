@@ -15,7 +15,7 @@
 |1|Day_01|Before Starting Django|22.04.06|[📋][Day_01]|
 |2|Day_02|Django Setting and HTML|22.04.13|[📋][Day_02]|
 |3|Day_03|Django Setting and CSS|22.04.20|[📋][Day_03]|
-|4|Day_04|-|22.04.27|[📋][Day_04]|
+|4|Day_04|StickerUtils with dlib|22.04.27|[📋][Day_04]|
 |5|Day_05|-|22.05.04|[📋][Day_05]|
 |6|Day_06|-|22.05.11|[📋][Day_06]|
 |7|Day_07|-|22.05.18|[📋][Day_07]|
