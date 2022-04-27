@@ -105,7 +105,6 @@ django-admin startproject firstproject
 - Django 서버 실행
 
 ```bash
-cd ./firstproject/
 python manage.py runserver
 ```
 
