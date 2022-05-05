@@ -163,6 +163,6 @@ WHERE id = 1;
 #### Delete; DELETE
 
 ```sql
--- 컬럼 삭제
+-- 행 삭제
 DELETE FROM PHR.Users WHERE id = 1;
 ```
