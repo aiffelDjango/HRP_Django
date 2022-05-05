@@ -131,9 +131,9 @@ firstproject
 
 ### 2. `.gitignore` 파일 설정
 
-- [gitignore.io](https://www.toptal.com/developers/gitignore) 접속
-- django 검색해서 나온 텍스트 모두 복사
-- `.gitignore` 파일 생성 후 모두 붙여넣기
+1. [gitignore.io](https://www.toptal.com/developers/gitignore) 접속
+2. django 검색해서 나온 텍스트 모두 복사
+3. `.gitignore` 파일 생성 후 모두 붙여넣기
 
 ### 3. 설치한 패키지 리스트 텍스트 파일 생성
 
