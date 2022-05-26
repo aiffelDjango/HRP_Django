@@ -19,7 +19,7 @@
 |5|Day_05|SQL|22.05.04|[📋][Day_05]|
 |6|Day_06|Django SQL|22.05.11|[📋][Day_06]|
 |7|Day_07|ORM, GCP|22.05.18|[📋][Day_07]|
-|8|Day_08|-|22.05.25|[📋][Day_08]|
+|8|Day_08|Deploy (frontend, backend)|22.05.25|[📋][Day_08]|
 
 [Day_01]: Day_01/README.md
 [Day_02]: Day_02/README.md
