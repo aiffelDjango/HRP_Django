@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sticker AI view</title>
+  </head>
+  <body>
+    <div>
+      <!-- views.py 에서 data:image/jpg;base64 를 사용한 이유? -->
+      <!-- img 태그로 이미지 데이터 그 자체를 보내려면 base64 형식이어야만 가능함 -->
+      <img src="{{ image }}" style="width: 40vw" alt="convertImage" />
+    </div>
+  </body>
+</html>
